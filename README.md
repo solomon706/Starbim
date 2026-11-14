@@ -191,4 +191,4 @@ This repository serves as the official landing page for Starbim. The software is
 **Get the most recent version of Starbim today!**
 
 ---
-**Last updated:** 2026-11-13 21:50:33 UTC
+**Last updated:** 2026-11-14 02:04:05 UTC
